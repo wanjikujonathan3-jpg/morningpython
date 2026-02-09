@@ -26,7 +26,7 @@ dog("bob","german shepherd","8")
 dog("peter","siberian husky", "8")
 
 
-#A program to display details of fiveemployees at eMobilis using parameters and arguments
+#A program to display details of five employees at eMobilis using parameters and arguments
 
 def employee(fullname,position,gender,age):
     print(fullname,position,gender,age)
